@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\micro-service\\Example-MicroService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0B6DAF61-A23A-49AF-BDA1-27D724581156}|Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj|d:\\micro-service\\example-microservice\\services\\catalog\\catalog.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6DAF61-A23A-49AF-BDA1-27D724581156}|Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj|solutionrelative:services\\catalog\\catalog.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6DAF61-A23A-49AF-BDA1-27D724581156}|Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj|d:\\micro-service\\example-microservice\\services\\catalog\\catalog.api\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6DAF61-A23A-49AF-BDA1-27D724581156}|Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj|solutionrelative:services\\catalog\\catalog.api\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6DAF61-A23A-49AF-BDA1-27D724581156}|Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj|d:\\micro-service\\example-microservice\\services\\catalog\\catalog.api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6DAF61-A23A-49AF-BDA1-27D724581156}|Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj|solutionrelative:services\\catalog\\catalog.api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B6DAF61-A23A-49AF-BDA1-27D724581156}|Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj|d:\\micro-service\\example-microservice\\services\\catalog\\catalog.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0B6DAF61-A23A-49AF-BDA1-27D724581156}|Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj|solutionrelative:services\\catalog\\catalog.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B6DAF61-A23A-49AF-BDA1-27D724581156}|Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj|d:\\micro-service\\example-microservice\\services\\catalog\\catalog.api\\context\\catalogcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B6DAF61-A23A-49AF-BDA1-27D724581156}|Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj|solutionrelative:services\\catalog\\catalog.api\\context\\catalogcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B6DAF61-A23A-49AF-BDA1-27D724581156}|Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj|d:\\micro-service\\example-microservice\\services\\catalog\\catalog.api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B6DAF61-A23A-49AF-BDA1-27D724581156}|Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj|solutionrelative:services\\catalog\\catalog.api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B6DAF61-A23A-49AF-BDA1-27D724581156}|Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj|d:\\micro-service\\example-microservice\\services\\catalog\\catalog.api\\context\\catalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +42,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\micro-service\\Example-MicroService\\Services\\Catalog\\Catalog.Api\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Api\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\micro-service\\Example-MicroService\\Services\\Catalog\\Catalog.Api\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Api\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T15:25:45.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\micro-service\\Example-MicroService\\Services\\Catalog\\Catalog.Api\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Api\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\micro-service\\Example-MicroService\\Services\\Catalog\\Catalog.Api\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Api\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T15:22:52.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CatalogContextSeed.cs",
               "DocumentMoniker": "D:\\micro-service\\Example-MicroService\\Services\\Catalog\\Catalog.Api\\Context\\CatalogContextSeed.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Api\\Context\\CatalogContextSeed.cs",
@@ -46,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\micro-service\\Example-MicroService\\Services\\Catalog\\Catalog.Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Api\\appsettings.Development.json",
@@ -54,12 +87,11 @@
               "RelativeToolTip": "Services\\Catalog\\Catalog.Api\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-19T13:24:20.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T13:24:20.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CatalogContext.cs",
               "DocumentMoniker": "D:\\micro-service\\Example-MicroService\\Services\\Catalog\\Catalog.Api\\Context\\CatalogContext.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Api\\Context\\CatalogContext.cs",
@@ -77,7 +109,7 @@
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Api\\Entities\\Product.cs",
               "ToolTip": "D:\\micro-service\\Example-MicroService\\Services\\Catalog\\Catalog.Api\\Entities\\Product.cs",
               "RelativeToolTip": "Services\\Catalog\\Catalog.Api\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T13:12:38.148Z"
             }
