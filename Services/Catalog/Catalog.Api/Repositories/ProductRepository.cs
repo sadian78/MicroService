@@ -17,7 +17,6 @@ namespace Catalog.Api.Repositories
 
         #endregion
 
-
         public async Task<IEnumerable<Product>> GetProducts()
         {
             return await _context.Products.Find(p => true).ToListAsync();

@@ -36,3 +36,6 @@ D:\micro-service\Example-MicroService\Services\Catalog\Catalog.Api\obj\Debug\net
 D:\micro-service\Example-MicroService\Services\Catalog\Catalog.Api\obj\Debug\net9.0\Catalog.Api.pdb
 D:\micro-service\Example-MicroService\Services\Catalog\Catalog.Api\obj\Debug\net9.0\Catalog.Api.genruntimeconfig.cache
 D:\micro-service\Example-MicroService\Services\Catalog\Catalog.Api\obj\Debug\net9.0\ref\Catalog.Api.dll
+D:\micro-service\Example-MicroService\Services\Catalog\Catalog.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\micro-service\Example-MicroService\Services\Catalog\Catalog.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\micro-service\Example-MicroService\Services\Catalog\Catalog.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
